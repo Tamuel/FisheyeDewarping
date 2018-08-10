@@ -8,10 +8,14 @@
       <w>dewarping</w>
       <w>diag</w>
       <w>fisheye</w>
+      <w>fname</w>
       <w>lmouse</w>
       <w>opencv</w>
       <w>rdefault</w>
       <w>resized</w>
+      <w>rvecs</w>
+      <w>segmentator</w>
+      <w>tvecs</w>
       <w>undistored</w>
     </words>
   </dictionary>
