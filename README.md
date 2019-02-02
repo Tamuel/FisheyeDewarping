@@ -7,3 +7,6 @@ Can adjust fisheye images parameters and undistort fisheye image
 with apply undistort operation several times.
 
 You can change distortion coefficient and camera intrinsic parameters.
+
+## Screenshot
+![screenshot](https://github.com/Tamuel/FisheyeDewarping/blob/master/FisheyeDewarping.png)
